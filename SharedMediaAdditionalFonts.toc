@@ -1,4 +1,4 @@
-## Interface: 110002
+## Interface: 40400
 ## Title: SharedMedia Additional Fonts
 ## Notes: Inserts additionnal fonts into SharedMediaLib's storage.
 ## Version: @project-version@
