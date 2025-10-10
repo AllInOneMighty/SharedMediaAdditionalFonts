@@ -34,6 +34,7 @@ SharedMediaAdditionalFonts:Register("font", "Baar Sophia", [[Interface\Addons\Sh
 SharedMediaAdditionalFonts:Register("font", "Blazed", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Blazed.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Boris Black Bloxx", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\BorisBlackBloxx.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Boris Black Bloxx Dirty", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\BorisBlackBloxxDirty.ttf]])
+SharedMediaAdditionalFonts:Register("font", "Century Gothic", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\centurygothic.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Collegiate", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\COLLEGIA.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Continuum Medium", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\ContinuumMedium.ttf]])
 SharedMediaAdditionalFonts:Register("font", "DejaVu Sans", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\DejaVuSans.ttf]])
