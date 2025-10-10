@@ -1,4 +1,4 @@
-﻿--[[
+--[[
 
 ----
 ---- PLEASE READ BEFORE DOING ANYTHING ----
@@ -49,6 +49,7 @@ SharedMediaAdditionalFonts:Register("font", "Liberation Sans", [[Interface\Addon
 SharedMediaAdditionalFonts:Register("font", "Liberation Serif", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\LiberationSerif-Regular.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Mystic Orbs", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\MystikOrbs.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Pokemon Solid", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Pokemon Solid.ttf]])
+SharedMediaAdditionalFonts:Register("font", "Prototype", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Prototype.ttf]])
 SharedMediaAdditionalFonts:Register("font", "PT Sans Narrow, Bold", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\PTSansNarrow-Bold.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Rock Show Whiplash", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Rock Show Whiplash.ttf]])
 SharedMediaAdditionalFonts:Register("font", "SF Diego Sans", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\SF Diego Sans.ttf]])
