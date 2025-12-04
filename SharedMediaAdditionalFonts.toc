@@ -14,6 +14,7 @@
 ## Notes: Inserts additionnal fonts into SharedMediaLib's storage.
 ## Version: @project-version@
 ## Author: Lots of people, maintained by AllInOneMighty.
+## IconTexture: Interface\Icons\Trade_archaeology_highborne_scroll
 ## X-Category: Miscellaneous
 ## X-Credits: elsia
 ## OptionalDeps: LibSharedMedia-3.0, LibSharedMedia-2.0, SharedMediaLib
