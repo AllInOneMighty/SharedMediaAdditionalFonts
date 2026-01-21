@@ -46,6 +46,7 @@ SharedMediaAdditionalFonts:Register("font", "Expressway, Bold", [[Interface\Addo
 SharedMediaAdditionalFonts:Register("font", "Frakturika Spamless", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\FRAKS___.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Homespun TT BRK", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Homespun.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Impact", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\impact.ttf]])
+SharedMediaAdditionalFonts:Register("font", "JetBrains Mono", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\JetBrainsMono-Regular.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Liberation Sans", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\LiberationSans-Regular.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Liberation Serif", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\LiberationSerif-Regular.ttf]])
 SharedMediaAdditionalFonts:Register("font", "Mystic Orbs", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\MystikOrbs.ttf]])
