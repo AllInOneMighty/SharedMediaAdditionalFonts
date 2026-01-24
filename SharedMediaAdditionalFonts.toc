@@ -17,7 +17,7 @@
 ## IconTexture: Interface\Icons\Trade_archaeology_highborne_scroll
 ## X-Category: Miscellaneous
 ## X-Credits: elsia
-## OptionalDeps: LibSharedMedia-3.0, LibSharedMedia-2.0, SharedMediaLib
+## OptionalDeps: LibSharedMedia-3.0
 
 #@no-lib-strip@
 Libs\LibStub\LibStub.lua
