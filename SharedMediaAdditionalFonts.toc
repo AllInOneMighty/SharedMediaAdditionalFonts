@@ -22,7 +22,7 @@
 #@no-lib-strip@
 Libs\LibStub\LibStub.lua
 
-Libs\LibSharedMedia-3.0\LibSharedMedia-3.0-1.1.lua
+Libs\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
 #@end-no-lib-strip@
 
 SharedMediaAdditionalFonts.lua
