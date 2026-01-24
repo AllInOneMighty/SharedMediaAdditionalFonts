@@ -19,7 +19,10 @@
 ## X-Credits: elsia
 ## OptionalDeps: LibSharedMedia-3.0, LibSharedMedia-2.0, SharedMediaLib
 
+#@no-lib-strip@
 Libs\LibStub\LibStub.lua
 
-Core.lua
+Libs\LibSharedMedia-3.0\LibSharedMedia-3.0-1.1.lua
+#@end-no-lib-strip@
+
 SharedMediaAdditionalFonts.lua
