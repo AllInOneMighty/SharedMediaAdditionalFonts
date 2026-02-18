@@ -61,9 +61,9 @@ LSM:Register("font", "Solange", [[Interface\Addons\SharedMediaAdditionalFonts\fo
 LSM:Register("font", "Star Cine", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\starcine.ttf]])
 LSM:Register("font", "Trashco", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\trashco.ttf]])
 LSM:Register("font", "Ubuntu Condensed", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Ubuntu-C.ttf]], western + ruRU)
--- Should be "Ubuntu, Light", but has historically bee named this way.
+-- Should be "Ubuntu, Light", but has historically been named this way.
 LSM:Register("font", "Ubuntu Light", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Ubuntu-L.ttf]], western + ruRU)
--- Should be "Waltograph UI, Bold", but has historically bee named this way.
+-- Should be "Waltograph UI, Bold", but has historically been named this way.
 LSM:Register("font", "Waltograph UI", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\waltographUI.ttf]])
 LSM:Register("font", "Verdana", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Verdana.ttf]], western + ruRU)
 LSM:Register("font", "X360", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\X360.ttf]], western + ruRU)
