@@ -13,7 +13,7 @@ Don't add a font that you did not test. All fonts must be tested in game before
 upload.
 
 Thanks for your cooperation! ;-)
-AllInOneMighty
+All-in-one Mighty
 
 ]]
 
