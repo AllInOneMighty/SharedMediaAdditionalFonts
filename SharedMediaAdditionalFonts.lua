@@ -28,6 +28,7 @@ LSM:Register("font", "Alba Super", [[Interface\Addons\SharedMediaAdditionalFonts
 LSM:Register("font", "Arm Wrestler", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\ArmWrestler.ttf]])
 LSM:Register("font", "AvantGarde LT Book", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\AvantGarde_LT_Book_Regular.ttf]])
 LSM:Register("font", "Baar Sophia", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\BAARS___.TTF]])
+LSM:Register("font", "Bazooka", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Bazooka.ttf]])
 LSM:Register("font", "Blazed", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Blazed.ttf]])
 LSM:Register("font", "Boris Black Bloxx", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\BorisBlackBloxx.ttf]])
 LSM:Register("font", "Boris Black Bloxx Dirty", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\BorisBlackBloxxDirty.ttf]])
