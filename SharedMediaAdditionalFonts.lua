@@ -37,6 +37,7 @@ LSM:Register("font", "Celestia Redux", [[Interface\Addons\SharedMediaAdditionalF
 LSM:Register("font", "Century Gothic", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\centurygothic.ttf]], western + ruRU)
 LSM:Register("font", "Collegiate", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\COLLEGIA.ttf]])
 LSM:Register("font", "Continuum Medium", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\ContinuumMedium.ttf]])
+LSM:Register("font", "Cooline Bold Italic", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\coolinbi.ttf]])
 LSM:Register("font", "DejaVu Sans", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\DejaVuSans.ttf]], western + ruRU)
 LSM:Register("font", "DejaVu Sans, Bold", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\DejaVuSans-Bold.ttf]], western + ruRU)
 LSM:Register("font", "DieDieDie", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\DieDieDie.ttf]])
