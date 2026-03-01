@@ -54,6 +54,7 @@ LSM:Register("font", "Liberation Serif", [[Interface\Addons\SharedMediaAdditiona
 LSM:Register("font", "Mystic Orbs", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\MystikOrbs.ttf]])
 LSM:Register("font", "NanumGothic", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\NanumGothic-Regular.ttf]])
 LSM:Register("font", "Nunito", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Nunito-Regular.ttf]])
+LSM:Register("font", "OpenDyslexic 3", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\OpenDyslexic3-Regular.ttf]])
 LSM:Register("font", "Pokemon Solid", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Pokemon Solid.ttf]])
 LSM:Register("font", "Prototype", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Prototype.ttf]])
 LSM:Register("font", "PT Sans Narrow, Bold", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\PTSansNarrow-Bold.ttf]], western + ruRU)
