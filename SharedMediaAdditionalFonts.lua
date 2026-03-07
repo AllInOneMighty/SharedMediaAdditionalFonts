@@ -43,6 +43,7 @@ LSM:Register("font", "DejaVu Sans, Bold", [[Interface\Addons\SharedMediaAddition
 LSM:Register("font", "DieDieDie", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\DieDieDie.ttf]])
 LSM:Register("font", "Diogenes", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\DIOGENES.ttf]])
 LSM:Register("font", "Disko", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Disko.ttf]])
+LSM:Register("font", "Expressway, Regular", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\expressway rg.otf]], western + ruRU)
 LSM:Register("font", "Expressway, Bold", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Expressway-Bold.ttf]], western + ruRU)
 LSM:Register("font", "Frakturika Spamless", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\FRAKS___.ttf]])
 LSM:Register("font", "Gotham Narrow Ultra", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\GothamNarrow-Ultra.ttf]])
