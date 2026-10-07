@@ -47,6 +47,7 @@ LSM:Register("font", "Diogenes", [[Interface\Addons\SharedMediaAdditionalFonts\f
 LSM:Register("font", "Disko", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Disko.ttf]])
 LSM:Register("font", "Expressway, Regular", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\expressway rg.otf]], western + ruRU)
 LSM:Register("font", "Expressway, Bold", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Expressway-Bold.ttf]], western + ruRU)
+LSM:Register("font", "Fira Sans", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\FiraSans-Regular.ttf]])
 LSM:Register("font", "Frakturika Spamless", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\FRAKS___.ttf]])
 LSM:Register("font", "Gotham Narrow Ultra", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\GothamNarrow-Ultra.ttf]])
 LSM:Register("font", "Homespun TT BRK", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Homespun.ttf]], western + ruRU)
