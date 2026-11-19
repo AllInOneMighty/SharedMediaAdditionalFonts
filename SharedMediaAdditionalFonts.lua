@@ -31,6 +31,7 @@ LSM:Register("font", "Atkinson Hyperlegible Next", [[Interface\Addons\SharedMedi
 LSM:Register("font", "AvantGarde LT Book", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\AvantGarde_LT_Book_Regular.ttf]])
 LSM:Register("font", "Baar Sophia", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\BAARS___.TTF]])
 LSM:Register("font", "Bazooka", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Bazooka.ttf]])
+LSM:Register("font", "Big Noodle Titling", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\big_noodle_titling.ttf]])
 LSM:Register("font", "Blazed", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\Blazed.ttf]])
 LSM:Register("font", "Boris Black Bloxx", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\BorisBlackBloxx.ttf]])
 LSM:Register("font", "Boris Black Bloxx Dirty", [[Interface\Addons\SharedMediaAdditionalFonts\fonts\BorisBlackBloxxDirty.ttf]])
